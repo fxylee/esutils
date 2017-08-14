@@ -1,0 +1,23 @@
+{
+  "name": "es-utils",
+  "version": "1.0.0",
+  "description": "ECMAScript utils.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fxylee/esutils.git"
+  },
+  "keywords": [
+    "ECMAScript",
+    "utils"
+  ],
+  "author": "fxylee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fxylee/esutils/issues"
+  },
+  "homepage": "https://github.com/fxylee/esutils#readme"
+}
